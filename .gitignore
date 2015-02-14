@@ -17,9 +17,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-#Delphi Histories
-_history
-
 # =========================
 # Operating System Files
 # =========================
